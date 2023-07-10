@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70586880603",
+    "project_id": "fir-signup-f89e7",
+    "storage_bucket": "fir-signup-f89e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70586880603:android:edf58a69c69485e753657e",
+        "android_client_info": {
+          "package_name": "uz.turgunboyevjurabek.firebase_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70586880603-hfbqigq2uqpqhvhncmc23c868meqtcl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1m-1--u0G14e3gqG4aHpYXtFfY7EW37c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70586880603-hfbqigq2uqpqhvhncmc23c868meqtcl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
