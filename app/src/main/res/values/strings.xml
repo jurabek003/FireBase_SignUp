@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FireBase_SignUp</string>
+    <string name="signup">SignUp</string>
 </resources>
