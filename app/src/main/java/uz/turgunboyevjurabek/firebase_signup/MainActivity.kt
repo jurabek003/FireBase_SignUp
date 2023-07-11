@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
                 }else{
                     Log.d(TAG,"signWithCredential:failure",task.exception)
                     Toast.makeText(this,"${task.exception}", Toast.LENGTH_SHORT).show()
-                }
             }
+        }
     }
 }
